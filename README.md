@@ -15,7 +15,7 @@ Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu 
 
 1. Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/EnzoGouveia/Desafio-Facilita-Juridico
 
 2. Navegue até o diretório do projeto:
 
